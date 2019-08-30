@@ -10,7 +10,7 @@ public class Data {
             "munchkin",
             "korean short hair",
             "russian blue",
-            "tomcat"
+            "tomcat",
     };
 
     public String[] getDataList() {
